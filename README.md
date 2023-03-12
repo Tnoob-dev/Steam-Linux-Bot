@@ -18,3 +18,5 @@
 ## ¿Por que son necesarias las credenciales de Steam?
 - Principalmente para evitar conflictos con la plataforma
 - Antes de instalar algun juego va a la tienda de Steam entrando via Web o por la app en su Smartphone/Tablet/PC y presione en Agregar a la Biblioteca, esto ahorrara error de subscripcion para la mayoria de juegos
+
+https://raw.githubusercontent.com/Tnoob-dev/Steam-Linux-Bot/master/image.png
