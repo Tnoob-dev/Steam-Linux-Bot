@@ -3,9 +3,9 @@
 ## Bot para la descarga de juegos de Steam y subirlo a Telegram
 ### Uso:
 
--/start - Inicia el Bot
--/install - Instala Steam en su sistema
--/game id name - descarga el juego guiandose por su ID y subiendolo a Telegram con el nombre que usted le ponga
+- /start - Inicia el Bot
+- /install - Instala Steam en su sistema
+- /game id name - descarga el juego guiandose por su ID y subiendolo a Telegram con el nombre que usted le ponga
 
 ### Antes de montar/iniciar el bot establezca las variables de Entorno en el config.env:
 - SESSION_NAME - Nombre de la sesion creada por Pyrogram
