@@ -9,7 +9,7 @@
 
 ### Antes de montar/iniciar el bot establezca las variables de Entorno en el config.env:
 - SESSION_NAME - Nombre de la sesion creada por Pyrogram
-- BOT_TOKEN - Token del bot que se obtiene por https://t.me/BotFather
+- BOT_TOKEN - Token del bot que se obtiene por https://t.me/BotFather/
 - API_HASH - Credenciales de https://my.telegram.org/
 - API_ID - Credenciales de https://my.telegram.org/
 - STEAM_USER - Usuario de Steam
