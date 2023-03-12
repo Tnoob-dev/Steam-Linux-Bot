@@ -3,3 +3,4 @@ tgcrypto
 py-steamcmd-wrapper
 vdf
 python-dotenv
+py7zr
